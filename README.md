@@ -145,7 +145,7 @@ p.note { display: none; }
 <h2><span class="yellow">お昼は3日連続で同じお宅にお邪魔しました</span></h2>
 <a href="20250116_004.JPG" target="_blank"><img src="20250116_004.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">ふと外を見ると、お隣さんが台所を使用中<br>台所を外に設置するのはご近所との共用が目的かも？<br>日本もその昔は共有井戸とかでしたよね〜<br>これがアジア地区の本来の姿かも・・・</span></h2>
+<h2><span class="yellow">ふと外を見ると、お隣さんが台所を使用中<br>台所を外に設置するのはご近所との共用が目的かも？<br>日本もその昔は共有井戸とかでしたよね〜<br>これがアジア地区の本来の姿か・・・</span></h2>
 <a href="20250116_005.JPG" target="_blank"><img src="20250116_005.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">お料理は美味しく頂きました</span></h2>
