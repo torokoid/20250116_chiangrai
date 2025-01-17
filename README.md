@@ -189,7 +189,7 @@ p.note { display: none; }
 <h2><span class="yellow">居間の隅にはかなり立派なご仏壇</span></h2>
 <a href="20250116_023.JPG" target="_blank"><img src="20250116_023.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">すぐ横には旧国王のお写真</span></h2>
+<h2><span class="yellow">すぐ横には前国王のお写真</span></h2>
 <a href="20250116_024.JPG" target="_blank"><img src="20250116_024.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">お腹も膨らんだので帰宅すると足元にネコがじゃれつきました</span></h2>
